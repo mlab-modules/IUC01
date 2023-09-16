@@ -9,6 +9,7 @@ images:
 - doc/img/IUC01A_QRcode.png
 - hw/cam_profi/board.png
 mark: 50
+status: 0
 tags:
 - mlab
 - mlab-module
