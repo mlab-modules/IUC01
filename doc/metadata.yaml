@@ -1,4 +1,5 @@
-description: null
+description: This sensor measures electric current with high precision over wide range
+  of currents up to 30A and 80kHz bandwith. This sensor has a linear voltage output.
 github_branch: IUC01A
 github_repo: IUC01
 github_url: https://github.com/mlab-modules/IUC01
